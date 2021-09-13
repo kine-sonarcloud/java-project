@@ -1,10 +1,4 @@
-/**
- * @author mallesh
- * @email mallesh@kine.ai
- * @create date 2021-02-04 16:01:48
- * @modify date 2021-02-04 16:01:48
- * @desc [description]
- */
+
 
 package com.kine.email.exceptions;
 public class KineVerificationException extends RuntimeException  {
